@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+data/raw/*.parquet
+data/clean/*.parquet
+data/feature/*.parquet
+data/modeling/*.parquet
+artifacts/checkpoints/*
+artifacts/metadata/*
+artifacts/reports/*
+!.gitkeep

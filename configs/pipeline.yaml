@@ -1,0 +1,9 @@
+run_id: local_dev
+stages:
+  extract: true
+  clean: true
+  feature_build: true
+  modeling_base: true
+  training: false
+  evaluation: false
+  register: false
