@@ -1,0 +1,8 @@
+paths:
+  raw_dir: data/raw
+  clean_dir: data/clean
+  feature_dir: data/feature
+  modeling_dir: data/modeling
+  checkpoints_dir: artifacts/checkpoints
+  metadata_dir: artifacts/metadata
+  reports_dir: artifacts/reports

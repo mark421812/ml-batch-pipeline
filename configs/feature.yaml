@@ -1,0 +1,13 @@
+promotion:
+  enabled: true
+product_lifecycle:
+  enabled: true
+weather:
+  enabled: true
+calendar:
+  enabled: true
+traffic:
+  include_txn_count_ma_7d: true
+quality_flags:
+  keep_stockout_flag: true
+  keep_masking_columns: true
